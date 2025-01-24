@@ -1,0 +1,13 @@
+notion
+vlc
+maccy
+alttab
+rectangle
+iterm2
+slack
+discord
+visual-studio-code
+docker
+postman
+1password
+google-chrome
