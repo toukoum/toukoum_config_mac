@@ -1,13 +1,22 @@
-notion
-vlc
-maccy
-alttab
-rectangle
-iterm2
-slack
-discord
-visual-studio-code
-docker
-postman
-1password
-google-chrome
+notion - https://www.notion.so/desktop
+vlc - https://www.videolan.org/vlc/download-macosx.html
+maccy - https://maccy.app/
+alttab - https://github.com/lwouis/alt-tab-macos
+rectangle - https://rectangleapp.com/
+iterm2 - https://iterm2.com/
+slack - https://slack.com/downloads/mac
+discord - https://discord.com/download
+visual-studio-code - https://code.visualstudio.com/Download
+docker - https://www.docker.com/products/docker-desktop
+postman - https://www.postman.com/downloads/
+1password - https://1password.com/downloads/mac/
+google-chrome - https://www.google.com/chrome/
+oh-my-zsh - https://ohmyz.sh/
+fira-code - https://github.com/tonsky/FiraCode?tab=readme-ov-file
+brew - https://brew.sh/
+zsh-autosuggestions - https://catalins.tech/zsh-plugins/
+zsh-syntax-highlighting - https://linuxhandbook.com/zsh-syntax-highlighting/
+you-should-use & bat-zsh - https://catalins.tech/zsh-plugins/
+stats - https://github.com/exelban/stats
+macs-fan-control - https://www.crystalidea.com/macs-fan-control/download
+scroll-reverser - https://scroll-reverser.macupdate.com/
