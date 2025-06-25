@@ -1,3 +1,4 @@
+chrome - https://www.google.com/chrome/
 notion - https://www.notion.so/desktop
 vlc - https://www.videolan.org/vlc/download-macosx.html
 maccy - https://maccy.app/
@@ -10,7 +11,6 @@ visual-studio-code - https://code.visualstudio.com/Download
 docker - https://www.docker.com/products/docker-desktop
 postman - https://www.postman.com/downloads/
 1password - https://1password.com/downloads/mac/
-google-chrome - https://www.google.com/chrome/
 oh-my-zsh - https://ohmyz.sh/
 fira-code - https://github.com/tonsky/FiraCode?tab=readme-ov-file
 brew - https://brew.sh/
@@ -20,3 +20,14 @@ you-should-use & bat-zsh - https://catalins.tech/zsh-plugins/
 stats - https://github.com/exelban/stats
 macs-fan-control - https://www.crystalidea.com/macs-fan-control/download
 scroll-reverser - https://scroll-reverser.macupdate.com/
+Screen-studio - https://screen.studio/
+Davinci studio - https://www.blackmagicdesign.com/products/davinciresolve/studio
+ChatGPT Desktop — https://openai.com/chat (descend jusqu'à “Download for macOS”)
+Figma — https://www.figma.com/downloads/
+ColorSlurp — https://colorslurp.com/
+CleanMyMac X — https://macpaw.com/cleanmymac
+Telegram — https://macos.telegram.org/
+WhatsApp Desktop — https://www.whatsapp.com/download
+Beeper Desktop — https://www.beeper.com/download
+Stremio — https://www.stremio.com/downloads
+Deezer — https://www.deezer.com/fr/download
